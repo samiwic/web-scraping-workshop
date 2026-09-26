@@ -1,6 +1,14 @@
 # Web Scraping 101
 ### Presented by STARS Computing Core
 
+## Start the workshop
+
+[Open the student notebook in Google Colab](https://colab.research.google.com/github/samiwic/web-scraping-workshop/blob/main/starter.ipynb)
+
+Click **Copy to Drive** to save your own copy, then run the cells in order.
+
+[View the practice events page](https://samiwic.github.io/web-scraping-workshop/)
+
 A 30-minute workshop: collect fictional tech events, build a table, and find free online options.
 
 ## Students: start here
