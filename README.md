@@ -1,5 +1,5 @@
 # Web Scraping 101
-### Presented by STARS Computing Corps
+### Presented by STARS Computing Core
 
 A 30-minute workshop: collect fictional tech events, build a table, and find free online options.
 
