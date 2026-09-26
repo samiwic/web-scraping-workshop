@@ -9,8 +9,6 @@ Click **Copy to Drive** to save your own copy, then run the cells in order.
 
 [View the practice events page](https://samiwic.github.io/web-scraping-workshop/)
 
-A 30-minute workshop: collect fictional tech events, build a table, and find free online options.
-
 ## Students: start here
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Choose **File > Upload notebook** and select `notebooks/starter.ipynb` from this kit. If the opening dialog offers Upload, use that instead.
